@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+weights/
+third_party/
+runs/
+evaluation/
+analysis/
+*.log
+*.pt
+*.pth
+*.ckpt

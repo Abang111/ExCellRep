@@ -1,0 +1,16 @@
+# Install a matching CUDA-enabled torch and torchvision pair before this file.
+torch
+torchvision
+timm
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+h5py
+Pillow
+opencv-python-headless
+openslide-python
+zarr<3
+tqdm
+matplotlib
